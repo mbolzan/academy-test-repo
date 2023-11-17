@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Kenia;
+    src: url(../fonts/Kenia-Regular.ttf);
+}
+
+
+
+
+body { 
+    font-family: AGBALUMO;
+}
+
+p {
+    font-family: Kenia, Verdana, Geneva, Tahoma, sans-serif;
+    color:red;
+    font-size: 16px;
+}
+
+.menu {
+    width:80%;
+    margin:0 auto;
+    text-align:center;
+    border:1px solid;
+    padding: 10px;
+}
+
+.menu a {
+    background-color: pink;
+    margin: 1em;
+}
+.side button {
+    width: 80%;
+    margin: 10px 0;
+    background: green;
+    color: white;
+    cursor: pointer;
+}
