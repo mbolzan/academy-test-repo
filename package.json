@@ -1,7 +1,7 @@
 {
   "name": "html_01",
   "version": "1.0.0",
-  "description": "",
+  "description": "...",
   "main": "index.html",
   "scripts": {
     "start": "http-server",
